@@ -1,38 +1,9 @@
-Gcam Enabler for XiaomiMI8Lite
+Gcam Enabler for XiaomiMI8Lite 
 -
-ncandroid84 @ xda-developers
+ncandroid84 @ xda-developer
 -
 --------------------------------------------------------------------------------------
-Initial Release v1.0  13/05/2019
-
---------------------------------------------------------------------------------------
-Update v1.2 21/05/2019
-
-Change of name to find faster
-
---------------------------------------------------------------------------------------
-Update v1.3 29/05/2019
-
-Changes: 
-
-Fix second back camera
-
-Fix whatsapp camera rotation crash
-
---------------------------------------------------------------------------------------
-Update v1.3.1 29/05/2019
-
-Changes:
-
-Added a line in the fix second back camera
-
---------------------------------------------------------------------------------------
-Update v1.4.1 04/06/2019
-
-Changes: 
-
-Fix! Two lines of the build.prop were eliminated,
-causing some phones to fail Gcam.
+Initial Release v1.0 Stable 07/06/2019
 
 --------------------------------------------------------------------------------------
 Descriptión:
